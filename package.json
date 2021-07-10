@@ -1,0 +1,17 @@
+{
+  "name": "getstarted",
+  "version": "1.0.0",
+  "description": "\"Getting started with nodejs\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Prosper Abouar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
